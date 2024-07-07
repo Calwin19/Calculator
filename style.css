@@ -1,0 +1,48 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+  }
+  
+  .display {
+    width: 90%;
+    height: 30px;
+    font-size: 30px;
+    background-color: #2b2b2b;
+    color: white;
+    border-radius: 15px;
+  }
+  
+  .Container {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #333333;
+    border-radius: 15px;
+    width:20%;
+    margin: 8% 40%;
+    padding: 20px;
+  }
+  
+  button {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    margin: 2px;
+    border: none;
+    border-radius: 50px;
+    background-color: #191414;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #616161;
+  }
+  
+  button:active {
+    background-color: #ffd1d1;
+  }
+  
+  .button-op {
+    color: #ccb100;
+  }
